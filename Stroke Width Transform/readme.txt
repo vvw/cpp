@@ -2,12 +2,23 @@
 http://funkybee.narod.ru/
 https://github.com/tleyden/open-ocr/wiki/Stroke-Width-Transform
 https://github.com/tleyden/open-ocr/wiki/Stroke-Width-Transform-In-Action
-https://registry.hub.docker.com/u/tleyden5iwx/stroke-width-transform/dockerfile/ docker ºÃÏñÊÇºÜÏÈÔŞµÄ¶«Î÷
+https://registry.hub.docker.com/u/tleyden5iwx/stroke-width-transform/dockerfile/ docker å¥½åƒæ˜¯å¾ˆå…ˆèµçš„ä¸œè¥¿
 
-¾í»ıÉñ¾­ÍøÂç ´óÔŞ
+å·ç§¯ç¥ç»ç½‘ç»œ å¤§èµ
 
 https://github.com/BVLC/caffe
-https://github.com/niuzhiheng/caffe windows °æ
+https://github.com/niuzhiheng/caffe windows ç‰ˆ
 https://github.com/rbgirshick/rcnn
-http://projectnaptha.com/ Í¼ÏñÑ¡×Ö
+http://projectnaptha.com/ å›¾åƒé€‰å­—
+
+
+https://github.com/tleyden/open-ocr/wiki/Stroke-Width-Transform æ–°ä¸œè¥¿
+
+http://cmm.ensmp.fr/~beucher/wtshed.html#princip
+
+http://12000.org/ mma å¤§èµ
+
+http://www.mamba-image.org/  mambaå›¾åƒå¤„ç†åº“ã€‚æœ‰ä»£ç ï¼Œæœ‰è®ºæ–‡ï¼Œæœ‰ç®—æ³•
+
+code site:http://www.eecs.berkeley.edu/Research/Projects/CS/vision
 
